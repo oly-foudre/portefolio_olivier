@@ -1,0 +1,5 @@
+*_files/
+*.télécharger
+.DS_Store
+Thumbs.db
+*.log
