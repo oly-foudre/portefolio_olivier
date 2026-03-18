@@ -1,5 +1,6 @@
-*_files/
-*.télécharger
-.DS_Store
-Thumbs.db
+node_modules/
+*.zip
+*.rar
+*.mp4
+*.exe
 *.log
